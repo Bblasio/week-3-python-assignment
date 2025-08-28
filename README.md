@@ -1,4 +1,4 @@
-Week 3 Assignment
+# Week 3 Assignment
 Overview
 This Python program calculates the final price of an item after applying a discount, based on user input for the original price and discount percentage. The discount is applied only if the discount percentage is 20% or higher. The program is designed to be simple, user-friendly, and robust for handling basic discount calculations.
 Purpose
@@ -95,4 +95,4 @@ Enter the original price: 99.99
 Enter the discount percentage: 30.5
 The final price is: $69.49
 
-Explanation: A 30.5% discount on $99.99 is $30.50 (approximately), so the final price is $99.99 - $30.50 = $69.
+
