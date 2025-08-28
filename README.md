@@ -1,5 +1,6 @@
-Week 3 Assignment: Discount Calculator
-Overview
+# Week 3 Assignment
+
+#Overview
 This Python program calculates the final price of an item after applying a discount, based on user input for the original price and discount percentage. The discount is applied only if the discount percentage is 20% or higher. The program is designed to practice key programming skills, including function creation, conditional logic, user input handling, and formatted output.
 Purpose
 This assignment focuses on developing the following skills:
@@ -48,3 +49,4 @@ Example 1: Discount ≥ 20%
 Enter the original price: 100
 Enter the discount percentage: 25
 The final price is: $75.00
+
